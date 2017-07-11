@@ -1,4 +1,4 @@
-# Sistem Informasi Prakerin (Praktek Kerja Industri) SMK Berbasis Web
+# Sistem Informasi hasil karya mahasiswa
 
 ## Requirements :
 1. PHP >= 5.4
